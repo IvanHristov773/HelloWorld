@@ -1,1 +1,4 @@
-Hello
+
+hello = 'Kok'
+
+print(hello)
