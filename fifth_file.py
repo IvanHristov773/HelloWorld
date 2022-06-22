@@ -1,4 +1,0 @@
-
-hello = 'Kok'
-
-print(hello)
